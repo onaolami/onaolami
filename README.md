@@ -1,5 +1,9 @@
   Hi, I’m @onaolami ❤️👩‍💻👋
-![s](https://user-images.githubusercontent.com/114405599/198687490-2d9ea464-737b-457d-8eef-a200fccf7f54.jpeg height=300px width= 300px)
+
+
+
+<img src=https://user-images.githubusercontent.com/114405599/198691020-d746730e-e43a-4c96-b117-a3f6ff735e4c.jpeg width= "200" height="200"/>
+
 
 
 

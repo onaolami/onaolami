@@ -1,4 +1,10 @@
   Hi, I’m @onaolami ❤️👩‍💻👋
+![s](https://user-images.githubusercontent.com/114405599/198687490-2d9ea464-737b-457d-8eef-a200fccf7f54.jpeg)
+
+
+
+
+
 
   I’m Currently Learning software developing💻
 

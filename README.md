@@ -16,7 +16,7 @@
 
   .FRONTEND ENGINEER 
   
- I'm always interested in acquiring knowledge that will take path in my growth
+ I'm always interested in acquiring knowledge that will take part in my growth
 
 
 <!---

@@ -10,7 +10,7 @@
 
 
 
-  I’m Currently Learning software developing💻
+  Software Developer
 
   .MICROBIOLOGIST
 

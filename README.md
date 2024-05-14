@@ -14,7 +14,7 @@
 
   .MICROBIOLOGIST
 
-  .FullStack ENGINEER 
+  .FULLSTACK ENGINEER 
   
  I'm always interested in acquiring knowledge that will take part in my growth
 
